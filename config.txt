@@ -1,6 +1,6 @@
 token=NTE3NzkzOTk0NTYyODYzMTI0.DuHZJg.3DdPeTXLl6MMQc9w7SOdED94yf4
-owner=509719956473249802
-prefix= g
-game= Gplay
+owner=455331653309562910
+prefix= da
+game= daplay
 stayinchannel=true
 songinstatus=true 
